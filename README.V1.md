@@ -10,7 +10,7 @@ This repository remains available as a reference for the original concept, hardw
 
 ## About This Repository
 
-**This Repository is a how-to guide associated with a YouTube video project to enable a Ti-Nspire CX (and others) with Chat-GPT utilizing an ESP32C3 and native .LUA app.**
+**This Repository is a how-to guide associated with a YouTube video project to enable a Ti-Nspire CX (and others) with Chat-GPT utilizing an ESP32C3 and native .tns app.**
 
 - Link to Video: LINK  
 - Link for 3D printable Replacement Ti-nspire cx series slide cover: [LINK](https://www.thingiverse.com/thing:7279226)
@@ -94,7 +94,7 @@ This repository remains available as a reference for the original concept, hardw
 #### Download and Install Software
 
 - Download the TI-nspire CAS student software free trial and install it.
-- Use this software to upload the .LUA file from the provided GitHub link to your calculator.
+- Use this software to upload the .tns file from the provided GitHub link to your calculator.
 
 https://education.ti.com/fr/software/details/en/B4F6E4EE05B94D75AAB4DFE24B2720AE/ti-nspirecxcas_pc_trial
 
