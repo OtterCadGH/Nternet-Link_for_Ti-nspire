@@ -27,7 +27,7 @@ Open the guide that matches the device you want to build.
 
 ## V1 — Ti-GPT (Internal Modification)
 
-**Read here → `docs/README.V1.md`**
+**Read here → `docs/V1_Ti-GPT.md`**
 
 The original proof of concept.
 
@@ -42,7 +42,7 @@ It is preserved as a historical reference and learning resource.
 
 ## V2 — nternet-Link (ESP32C3 Adapter)
 
-**Read here → `docs/README.V2.md`**
+**Read here → `docs/V2_nternet-Link.md`**
 
 The first practical and recommended version.
 
@@ -62,7 +62,7 @@ This is the best place to start.
 
 ## V3 — nternet-Link Modular Platform (ESP32S3)
 
-**Read here → `docs/README.V3.md`**
+**Read here → `docs/V3_development_preview.md`**
 
 Current active development.
 
