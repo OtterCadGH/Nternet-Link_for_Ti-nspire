@@ -125,5 +125,24 @@ Do not use this device to violate academic rules, testing policies, or instituti
 This project is not affiliated with or endorsed by Texas Instruments.
 
 ---
+## Academic Integrity Notice
 
+This project is an embedded systems and communication interface experiment.
+
+It is not designed, intended, or marketed as a tool for use during examinations.
+
+Many schools and testing environments prohibit electronic communication devices, programmable computers, or modified calculators. You are responsible for following the rules of your institution.
+
+The author does not encourage, support, or condone using this project to gain unfair academic advantage or to bypass testing policies.
+
+This repository exists for learning about:
+• USB communication
+• serial protocols
+• embedded networking
+• hardware interfacing
+• software integration
+
+If you bring this device into an exam, that is your decision and your responsibility. Dont be that guy.
+
+---
 YouTube demonstrations and development logs will accompany future releases.
