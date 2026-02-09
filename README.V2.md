@@ -18,11 +18,17 @@ The device plugs into the calculator USB mini port and creates a USB serial conn
 The ESP32C3 interprets data coming from the calculator and can:
 
 • exchange strings and files
+
 • act as a wireless communication bridge
+
 • connect the calculator to the internet
+
 • send and receive API requests
+
 • run a ChatGPT style messaging interface on the calculator
+
 • Run any App w/ and w/o internet capabilities
+
 • Store Data
 
 No modification to the calculator hardware is required.
